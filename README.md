@@ -65,7 +65,7 @@
 - Architected a stealthy, voice-activated SOS trigger that captures and streams multimedia evidence.
 - Engineered a volunteer dispatch system utilizing the Haversine formula for `<50ms` instant routing.
 - Developed an AI-driven simulated fake caller and dead-man's switch processing context-aware strategies.
-- **[GitHub Repository](https://github.com/Adarsh-Beriwala) | [Live Link](#)**
+- **[GitHub Repository](https://github.com/Adarsh-Beriwala/SafeHer-Next-Gen-Women-Safety-Platform) | [Live Link](https://safeher-women-safety-platform.vercel.app/)**
 <br/>
 *“Empowering safety through instantaneous, intelligent geospatial routing and real-time alerts.”*
 
@@ -78,7 +78,7 @@
 - Built a vector search engine processing documents into chunks and querying via cosine similarity search.
 - Implemented query rewriting using LLaMA 3.1 to significantly improve semantic retrieval precision.
 - Designed a confidence gate threshold to reduce hallucinations and ensure grounded answers.
-- **[GitHub Repository](https://github.com/Adarsh-Beriwala)**
+- **[GitHub Repository](https://github.com/Adarsh-Beriwala/DocuSphere-AI)**
 <br/>
 *“Turning static documents into interactive knowledge bases using cutting-edge RAG architecture.”*
 
@@ -91,7 +91,7 @@
 - Supported full CRUD operations for 100+ records, reducing manual handling time by ~40%.
 - Implemented department-based filtering and structured relational schemas ensuring data consistency.
 - Designed secure permission-gated access distinguishing Admin and Employee administrative operations.
-- **[GitHub Repository](https://github.com/Adarsh-Beriwala)**
+- **[GitHub Repository](https://github.com/Adarsh-Beriwala/Office-Employee-Management-System)**
 <br/>
 *“Streamlining workforce administration with secure, dynamic, and automated record handling.”*
 
@@ -99,7 +99,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Beriwala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Beriwala&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
